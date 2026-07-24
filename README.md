@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=50&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+B%C3%B9i+V%C4%83n+Ch%C6%B0%C6%A1ng+%F0%9F%91%8B;Swift+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Bi%E1%BA%BFn+%C3%BD+t%C6%B0%E1%BB%9Fng+th%C3%A0nh+s%E1%BA%A3n+ph%E1%BA%A9m+th%E1%BB%B1c+t%E1%BA%BF;Code+c%C3%B3+t%C3%A2m+%E2%80%A2+S%E1%BA%A3n+ph%E1%BA%A9m+c%C3%B3+t%E1%BA%A7m+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="./assets/status.svg" width="720" alt="iOS, SwiftUI, React và Next.js" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=buivanchuong9&label=L%C6%AF%E1%BB%A2T%20GH%C3%89%20TH%C4%82M&color=0ea5e9&style=for-the-badge)](https://github.com/buivanchuong9)
 [![Followers](https://img.shields.io/github/followers/buivanchuong9?label=NG%C6%AF%E1%BB%9CI%20THEO%20D%C3%95I&style=for-the-badge&color=8b5cf6&logo=github)](https://github.com/buivanchuong9?tab=followers)

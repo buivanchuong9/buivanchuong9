@@ -1,0 +1,31 @@
+<svg width="900" height="64" viewBox="0 0 900 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <style>
+      .line{opacity:0}
+      .a{animation:showA 12s steps(1,end) infinite}
+      .b{animation:showB 12s steps(1,end) infinite}
+      .c{animation:showC 12s steps(1,end) infinite}
+      .d{animation:showD 12s steps(1,end) infinite}
+      .cursor{animation:blink 1s steps(2,end) infinite}
+      @keyframes showA{0%,24%{opacity:1}25%,100%{opacity:0}}
+      @keyframes showB{0%,24%{opacity:0}25%,49%{opacity:1}50%,100%{opacity:0}}
+      @keyframes showC{0%,49%{opacity:0}50%,74%{opacity:1}75%,100%{opacity:0}}
+      @keyframes showD{0%,74%{opacity:0}75%,100%{opacity:1}}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="898" height="62" rx="12" fill="#020617" stroke="url(#border)" stroke-opacity=".65" stroke-width="2"/>
+  <circle cx="25" cy="22" r="4" fill="#FB7185"/>
+  <circle cx="39" cy="22" r="4" fill="#FBBF24"/>
+  <circle cx="53" cy="22" r="4" fill="#4ADE80"/>
+  <g font-family="JetBrains Mono, Menlo, monospace" font-size="17">
+    <text x="79" y="39" fill="#64748B">$</text>
+    <text x="101" y="39" fill="#E2E8F0" class="line a">swift run</text>
+    <text x="101" y="39" fill="#E2E8F0" class="line b">npm run dev</text>
+    <text x="101" y="39" fill="#E2E8F0" class="line c">code, sửa bug, rồi lại code.</text>
+    <text x="101" y="39" fill="#FBBF24" class="line d">Tester nói thế rồi thì ae cứ ok đi haha!</text>
+    <rect x="390" y="23" width="9" height="20" fill="#38BDF8" class="cursor"/>
+  </g>
+  <text x="875" y="39" text-anchor="end" fill="#475569" font-family="monospace" font-size="13">chuong@dev</text>
+</svg>

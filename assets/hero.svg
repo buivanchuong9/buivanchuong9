@@ -45,13 +45,13 @@
   <g transform="translate(600 86)" text-anchor="middle" font-family="Arial, sans-serif">
     <text fill="#64748B" font-size="14" font-weight="700" letter-spacing="7">SOFTWARE ENGINEER • VIETNAM</text>
     <text y="79" fill="url(#neon)" font-size="61" font-weight="900" filter="url(#glow)">BÙI VĂN CHƯƠNG</text>
-    <text y="126" fill="#E2E8F0" font-size="21">Crafting digital experiences that feel effortless.</text>
+    <text y="126" fill="#E2E8F0" font-size="21">iOS &amp; Web Developer</text>
     <text y="164" fill="#94A3B8" font-size="15" letter-spacing="2">SWIFT  /  REACT  /  NEXT.JS  /  TYPESCRIPT</text>
   </g>
   <g transform="translate(494 291)">
     <rect width="212" height="42" rx="21" fill="#071426" stroke="url(#neon)"/>
     <circle cx="27" cy="21" r="6" fill="#4ADE80" class="blink"/>
-    <text x="121" y="27" text-anchor="middle" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="14" font-weight="700">AVAILABLE TO BUILD</text>
+    <text x="121" y="27" text-anchor="middle" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="14" font-weight="700">ĐANG CODE...</text>
   </g>
   <rect x="110" y="80" width="980" height="2" fill="url(#neon)" opacity=".25" class="scan"/>
   <rect x="1" y="1" width="1198" height="398" rx="25" fill="none" stroke="url(#neon)" stroke-opacity=".52" stroke-width="2"/>
