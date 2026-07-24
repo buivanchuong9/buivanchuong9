@@ -1,0 +1,12 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#160B32"/></linearGradient><linearGradient id="n"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#A855F7"/></linearGradient><style>.d{stroke-dasharray:9 12;animation:x 6s linear infinite}.p{animation:p 2s ease-in-out infinite}@keyframes x{to{stroke-dashoffset:-126}}@keyframes p{50%{transform:translateY(-8px)}}</style></defs>
+  <rect width="1200" height="260" rx="24" fill="url(#b)"/>
+  <path d="M145 128H1055" fill="none" stroke="url(#n)" stroke-width="4" class="d"/>
+  <g font-family="Arial" text-anchor="middle" class="p">
+    <g transform="translate(150 128)"><circle r="52" fill="#082F49" stroke="#22D3EE" stroke-width="2"/><text y="8" font-size="32">💡</text><text y="86" fill="#7DD3FC" font-size="16" font-weight="700">Ý TƯỞNG</text></g>
+    <g transform="translate(450 128)"><circle r="52" fill="#172554" stroke="#60A5FA" stroke-width="2"/><text y="8" font-size="32">🧠</text><text y="86" fill="#93C5FD" font-size="16" font-weight="700">CHIẾN LƯỢC</text></g>
+    <g transform="translate(750 128)"><circle r="52" fill="#2E1065" stroke="#A78BFA" stroke-width="2"/><text y="8" font-size="32">⚙️</text><text y="86" fill="#C4B5FD" font-size="16" font-weight="700">THỰC THI</text></g>
+    <g transform="translate(1050 128)"><circle r="52" fill="#3B1D09" stroke="#F59E0B" stroke-width="2"/><text y="8" font-size="32">🚀</text><text y="86" fill="#FCD34D" font-size="16" font-weight="700">BỨT PHÁ</text></g>
+  </g>
+  <rect x="1" y="1" width="1198" height="258" rx="23" fill="none" stroke="url(#n)" stroke-opacity=".4" stroke-width="2"/>
+</svg>

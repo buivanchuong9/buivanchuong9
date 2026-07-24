@@ -1,0 +1,38 @@
+<svg width="760" height="500" viewBox="0 0 760 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="desk" x2="1" y2="1"><stop stop-color="#061329"/><stop offset="1" stop-color="#170B35"/></linearGradient>
+    <linearGradient id="screen" x2="1" y2="1"><stop stop-color="#0F172A"/><stop offset="1" stop-color="#020617"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .cursor{animation:blink 1s steps(2,end) infinite}.code1{animation:type 3s ease-in-out infinite}.code2{animation:type 3s ease-in-out .5s infinite}.code3{animation:type 3s ease-in-out 1s infinite}
+      .orb{transform-origin:620px 114px;animation:spin 9s linear infinite}.steam{animation:steam 3s ease-in-out infinite}
+      @keyframes blink{50%{opacity:0}}@keyframes type{0%,15%{stroke-dasharray:0 300}65%,100%{stroke-dasharray:300 0}}
+      @keyframes spin{to{transform:rotate(360deg)}}@keyframes steam{0%{transform:translateY(8px);opacity:0}50%{opacity:.7}100%{transform:translateY(-15px);opacity:0}}
+    </style>
+  </defs>
+  <rect width="760" height="500" rx="28" fill="url(#desk)"/>
+  <circle cx="620" cy="114" r="68" fill="none" stroke="#3B82F6" stroke-opacity=".18"/>
+  <g class="orb"><circle cx="620" cy="46" r="7" fill="#22D3EE" filter="url(#g)"/><circle cx="620" cy="182" r="5" fill="#A855F7"/></g>
+  <rect x="65" y="62" width="510" height="320" rx="18" fill="#020617" stroke="url(#line)" stroke-width="3"/>
+  <rect x="82" y="82" width="476" height="278" rx="10" fill="url(#screen)"/>
+  <circle cx="104" cy="102" r="5" fill="#FB7185"/><circle cx="121" cy="102" r="5" fill="#FBBF24"/><circle cx="138" cy="102" r="5" fill="#4ADE80"/>
+  <text x="166" y="107" fill="#64748B" font-family="monospace" font-size="13">chuong/app.swift</text>
+  <g fill="none" stroke-linecap="round" stroke-width="8">
+    <path d="M112 145h72" stroke="#C084FC" class="code1"/><path d="M198 145h122" stroke="#E2E8F0" class="code1"/>
+    <path d="M130 177h100" stroke="#38BDF8" class="code2"/><path d="M246 177h198" stroke="#F59E0B" class="code2"/>
+    <path d="M130 209h72" stroke="#38BDF8" class="code3"/><path d="M218 209h138" stroke="#4ADE80" class="code3"/>
+    <path d="M130 241h122" stroke="#38BDF8" class="code1"/><path d="M268 241h164" stroke="#FB7185" class="code1"/>
+    <path d="M112 273h46" stroke="#C084FC" class="code2"/>
+  </g>
+  <rect x="112" y="310" width="236" height="25" rx="6" fill="#0B2546"/><rect x="122" y="320" width="126" height="5" rx="2.5" fill="url(#line)"/><rect x="257" y="317" width="3" height="11" fill="#67E8F9" class="cursor"/>
+  <path d="M276 383h90l16 42H260z" fill="#111827" stroke="#334155"/><rect x="217" y="424" width="210" height="15" rx="7.5" fill="#1E293B"/>
+  <rect x="43" y="439" width="674" height="22" rx="11" fill="#0F172A" stroke="#334155"/>
+  <g transform="translate(595 321)">
+    <path d="M0 16h77l-9 91H10z" fill="#172554" stroke="#60A5FA"/><path d="M77 31h15c27 0 27 43 2 43H72" fill="none" stroke="#60A5FA" stroke-width="8"/>
+    <path d="M24 3c-10-17 13-19 2-37M49 3c-10-17 13-19 2-37" fill="none" stroke="#94A3B8" stroke-width="4" class="steam"/>
+  </g>
+  <text x="620" y="222" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="13">BUILD</text>
+  <text x="620" y="244" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="17" font-weight="700">SHIP</text>
+  <text x="620" y="268" text-anchor="middle" fill="#C4B5FD" font-family="monospace" font-size="13">REPEAT</text>
+</svg>
