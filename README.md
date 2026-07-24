@@ -16,7 +16,7 @@
 
 <img align="right" width="420" src="./assets/developer.svg" alt="Không gian làm việc của Bùi Văn Chương" />
 
-## `01.` Chào bạn, mình là Chương 👨‍💻
+## `01.` Chào con vợ, lại là anh đây 👨‍💻
 
 Một developer mobile, yêu thích việc tạo ra những sản phẩm **đẹp ở giao diện, chắc ở hệ thống và tốt ở trải nghiệm**.
 
