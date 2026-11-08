@@ -71,23 +71,7 @@ struct Developer {
 
 ---
 
-## `03.` Bản đồ năng lực 🧭
-
-<div align="center">
-  <img width="100%" src="./assets/tech-orbit.svg" alt="Bản đồ công nghệ Swift, React và hệ sinh thái phát triển" />
-</div>
-
----
-
-## `04.` Chế độ làm việc: luôn tiến về phía trước 🚀
-
-<div align="center">
-  <img width="100%" src="./assets/journey.svg" alt="Hành trình biến ý tưởng thành sản phẩm" />
-</div>
-
----
-
-## `05.` Khám phá hành trình của mình trên GitHub 🛰️
+## `03.` Khám phá hành trình trên GitHub 🛰️
 
 <div align="center">
   <a href="https://github.com/buivanchuong9?tab=repositories">
@@ -100,22 +84,10 @@ struct Developer {
 
 ---
 
-## `06.` Tư duy làm sản phẩm ✨
-
-<div align="center">
-
-| 🧠 Tư duy | 🛠️ Thực thi | 🎨 Trải nghiệm | 📈 Phát triển |
-|:---:|:---:|:---:|:---:|
-| Hiểu đúng vấn đề | Code sạch, dễ bảo trì | Đơn giản và trực quan | Đo lường rồi cải tiến |
-| Ưu tiên giá trị thật | Kiến trúc có chủ đích | Chăm chút từng chi tiết | Không ngừng học hỏi |
-
-</div>
-
-> “Code tốt không chỉ chạy đúng — nó còn phải dễ hiểu, dễ phát triển và tạo ra giá trị.”
 
 ---
 
-## `07.` Kết nối và cùng xây dựng điều hay ho 🤝
+## `04.` Kết nối và cùng xây dựng điều hay ho 🤝
 
 <div align="center">
 
